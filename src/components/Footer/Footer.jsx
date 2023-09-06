@@ -1,4 +1,4 @@
-import footer_logo from '../../assets/footer_logo.svg'
+import footer_logo from '../../assets/images/footer_logo.svg'
 import './_Footer.scss'
 
 

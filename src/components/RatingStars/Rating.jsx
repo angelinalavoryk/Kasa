@@ -1,7 +1,7 @@
 
 import './_Rating.scss';
-import emptyStar from "../../assets/starEmpty.svg";
-import fullStar from "../../assets/starFull.svg";
+import emptyStar from "../../assets/images/starEmpty.svg";
+import fullStar from "../../assets/images/starFull.svg";
 
 const Rating = ({ score }) => {
 	const stars = new Array(5).fill(null); // un tableau de 5 éléments vides

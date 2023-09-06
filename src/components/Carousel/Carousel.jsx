@@ -1,6 +1,6 @@
 import React, { useState, useCallback } from "react";
-import left from "../../assets/left.svg";
-import right from "../../assets/right.svg";
+import left from "../../assets/images/left.svg";
+import right from "../../assets/images/right.svg";
 import './_Carousel.scss';
 
 const Carousel = ({ slides }) => {

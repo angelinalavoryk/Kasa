@@ -1,7 +1,7 @@
 import './_Home.scss';
 import Banner from '../../components/Banner/Banner.jsx';
 import Cards from '../../components/Cards/Cards.jsx';
-import imageHome from '../../assets/img.png';
+import imageHome from '../../assets/images/img.png';
 
 
 
