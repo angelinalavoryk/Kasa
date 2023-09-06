@@ -1,7 +1,7 @@
 import './_About.scss';
 import Banner from '../../components/Banner/Banner.jsx';
 import bannerAbout from '../../assets/bannerAbout.png';
-import Collapse from '../../components/Dropdown/Collapse.jsx';
+import Collapse from '../../components/Collapse/Collapse.jsx';
 
 
 

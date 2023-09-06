@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 import Carousel from '../../components/Carousel/Carousel.jsx'
 import Tag from '../../components/Tag/Tag.jsx';
 import Appartements from '../../data/Appartements.json';
-import Collapse from '../../components/Dropdown/Collapse.jsx';
+import Collapse from '../../components/Collapse/Collapse.jsx';
 import Host from '../../components/Host/Host.jsx';
 import Rating from '../../components/RatingStars/Rating.jsx'
 import './_Appartment.scss';
