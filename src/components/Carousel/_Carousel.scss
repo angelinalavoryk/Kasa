@@ -46,11 +46,17 @@
         opacity: 0.8;
       }
     }
+    //Le compteur 
+    .carousel-counter-images {
+      position: absolute;
+      bottom: 10px; 
+      left: 50%;
+      color: #fff;
+      padding-bottom:20px;
+      font-size: 18px;
+      font-weight: 500;
+    }
   }
-
-
-
-
   @media screen and (max-width: 768px) {
     .carousel-container{
       height: 255px;
