@@ -45,7 +45,7 @@ const Carousel = ({ slides }) => {
           )}
         </div>
       ))}
-      {/* Le compteur d'images du carousel */}
+      {/* Le compteur d'images */}
       {length > 1 && (
         <div className="carousel-counter-images">
           {current + 1}/{length}
